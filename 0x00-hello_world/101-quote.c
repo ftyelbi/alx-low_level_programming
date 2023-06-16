@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-
 /**
  * main - Entry point of the program
  * Description: This C program prints a line to the standard error stream
