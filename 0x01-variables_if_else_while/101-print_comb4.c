@@ -28,5 +28,6 @@ int n, m, k;
 			}
 		}
 	}
+	putchar('\n');
 	return (0);
 }
